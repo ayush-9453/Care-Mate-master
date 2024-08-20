@@ -1,1 +1,3 @@
-![WhatsApp Image 2024-04-29 at 12 02 13_a7bd534f](https://github.com/user-attachments/assets/a646e08c-e20b-4bb3-9bed-55a5083fa342)
+# Output
+## IMAGE1:                                                                                  ## IMAGE2:
+![image1](https://github.com/user-attachments/assets/1cf500f6-004a-49a1-a047-c6944a6607eb) ![image2](https://github.com/user-attachments/assets/7c68e56c-b7d5-4f22-bf44-56025da18321)
